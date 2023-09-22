@@ -4,12 +4,12 @@ The frontend was made with React.js, and the backend was made with Express.
 The table also performs client-side filtering, sorting, and pagination by using the react-table library. 
 
 ## Technologies used
-# Frontend 
+### Frontend 
 * React.js
 * react-table
 * react-hook-form
 * mui material
-# Backend 
+### Backend 
 * Express
 * MySQL 
 
